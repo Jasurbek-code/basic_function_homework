@@ -1,0 +1,4 @@
+
+print("oxirgi urinish")
+
+
