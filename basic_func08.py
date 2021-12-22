@@ -3,6 +3,7 @@
 # Increase the value of a to one and return.
 
 def main(a):
+    a = a + 1
     return a        # a argument qiymatini qaytaradi
-a = "a+" + str(1)            # a ni 0 da 1 ga oshiradi
-print(main(a))
+
+print(main(0))
