@@ -2,9 +2,9 @@
 # Return the value 0
 
 def main():        # funksiya yaratildi
-    print(0)       # 0 qiymat chiqadi
+    return 0       # 0 qiymat chiqadi
 
-main()             # funksiyani chaqirish
-
+value = main()     # funksiyani o'zgaruvchiga o'zlashtirish
+print(value)       # o'zgaruvchini chiqaradi
 
 
