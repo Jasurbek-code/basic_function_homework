@@ -1,5 +1,10 @@
 # Create a function called main.
 # Return the value 0
 
-print("25-urinish")
+def main():        # funksiya yaratildi
+    print(0)       # 0 qiymat chiqadi
+
+main()             # funksiyani chaqirish
+
+
 
