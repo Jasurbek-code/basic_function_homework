@@ -4,5 +4,5 @@
 
 def main(a):
     return a        # a argument qiymatini qaytaradi
-a = 1               # a ni 0 da 1 ga oshiradi
+a = "a+" + str(1)            # a ni 0 da 1 ga oshiradi
 print(main(a))
