@@ -1,8 +1,8 @@
 # Create a function called main.
 # Return the value "codeschooluz"
 
-def main(values):   # funksiya
-    return values   # qiymat qaytaradi
+def main():   # funksiya
+    value = "codeschooluz"
+    return value    # qiymat uchun o'zgaruvchi
 
-value = "codeschooluz"    # qiymat uchun o'zgaruvchi
-print(main(value))        # funksiya ma'lumotini chiqaradi
+print(main())        # funksiya ma'lumotini chiqaradi
