@@ -2,8 +2,7 @@
 # Return the value integer type.
 
 def main():         # funksiya
-    val = type(5)
-    return val      # int tipini qaytaradi
+    return type(1)      # int tipini qaytaradi
 
 print(main())       # funksiya ma'lumotini chiqaradi
 
