@@ -2,6 +2,6 @@
 # Return the value str type.
 
 def main():     # funksiya
-    return str    # type qaytaradi
-
-print(main())    # ma'lumotni chiqaradi
+    return "string"    # type qaytaradi
+a = type(main())
+print(a)    # ma'lumotni chiqaradi
