@@ -1,8 +1,10 @@
 # Create a function called main.
 # Return the value float type.
 
-def main(type):      # funksiya
-    return typi      # type ni qaytaradi
+def main():      # funksiya
+    return type(5.6)      # float type ni qaytaradi
 
-typi = float         # typi - o'zgaruvchiga float tipini berish
-print(main(typi))
+print(main())
+
+
+#  git add basic_func05.py ; git commit -m "basic function homework" ; git push
