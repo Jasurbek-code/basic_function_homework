@@ -2,7 +2,7 @@
 # Return the value float type.
 
 def main():      # funksiya
-    return type(5.6)      # float type ni qaytaradi
+    return 5.6      # float type ni qaytaradi
 
 print(type(main()))
 
