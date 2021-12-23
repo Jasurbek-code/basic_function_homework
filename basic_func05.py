@@ -4,7 +4,7 @@
 def main():      # funksiya
     return type(5.6)      # float type ni qaytaradi
 
-print(main())
+print(type(main()))
 
 
 #  git add basic_func05.py ; git commit -m "basic function homework" ; git push
