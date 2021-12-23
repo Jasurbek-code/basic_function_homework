@@ -1,7 +1,7 @@
 # Create a function called main.
 # Return the value str type.
 
-def main(typi):     # funksiya
-    return typi     # type qaytaradi
+def main():     # funksiya
+    return str    # type qaytaradi
 
-print(main(str))    # ma'lumotni chiqaradi
+print(main())    # ma'lumotni chiqaradi
